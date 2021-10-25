@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O jogo de sobrevivência ao apocalipse zumbi é um projeto de iniciação ao Unity, desenvolvido no curso da Alura.
 
-## 🚀 Protótipo
+## 🎮 Protótipo
 
 Você pode acessar o projeto final através [desse link](https://djalmahenry.itch.io/sobrevivencia-apocalipse-zumbi).
 
