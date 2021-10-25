@@ -38,6 +38,7 @@ O jogo de sobrevivência ao apocalipse zumbi é um projeto de iniciação ao Uni
 ## 🚀 Protótipo
 
 Você pode acessar o projeto final através [desse link](https://djalmahenry.itch.io/sobrevivencia-apocalipse-zumbi).
+
 E para entrar no game insira a senha: zumbi
 
 ## 🚀 Como executar
